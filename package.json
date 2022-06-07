@@ -1,0 +1,11 @@
+{
+  "name": "better-replcraft",
+  "author": "DJ",
+  "version": "1.0.0",
+  "description": "Replcraft node library",
+  "license": "MIT",
+  "main": "/lib/index.js",
+  "dependencies": {
+    "ws": "^8.7.0"
+  }
+}
